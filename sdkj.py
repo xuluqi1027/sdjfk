@@ -1,2 +1,1 @@
-#sdkjfsd
-print(1)
+print('w')
